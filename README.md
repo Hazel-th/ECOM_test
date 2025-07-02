@@ -1,3 +1,6 @@
+Ссылка на DeepAI NSFW API недоступна (404), код должен выглядеть вот так.
+
+
 Запуск  
 ```bash
 git clone https://github.com/yourusername/nsfw-moderator.git
